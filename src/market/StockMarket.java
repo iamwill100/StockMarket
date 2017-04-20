@@ -16,6 +16,7 @@ public class StockMarket {
      */
     public static void main(String[] args) {
         mainGUI stock = new mainGUI();
+        stock.setVisible(true);
         
     }
     
